@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+  <h1>PYTHON QUIZ</h1><h3></h3>
+
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
+    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>  
+
+
+  </head>
+  <body>
+
+     <py-script>
+         src="./demo.py-script"
+
+     </py-script>
+
+
+  </body>  
+  </html>
